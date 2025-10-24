@@ -27,9 +27,9 @@
     }
 
     @keyframes trocarImagem {
-      0%, 30%   { background-image: url('/img/img1.jpg'); }
-      35%, 65%  { background-image: url('/img/img3.jpg'); }
-      70%, 100% { background-image: url('/img/img5.jpg'); }
+      0%, 30%   { background-image: url('img1.jpg'); }
+      35%, 65%  { background-image: url('img3.jpg'); }
+      70%, 100% { background-image: url('img5.jpg'); }
     }
 
     /* --- Conteúdo --- */
@@ -126,4 +126,5 @@
 
     .musica-controle:hover {
       transform: scale(1.1);
+
     }
