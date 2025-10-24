@@ -122,9 +122,11 @@
       justify-content: center;
       cursor: pointer;
       transition: all 0.3s;
+      z-index: 3;
     }
 
     .musica-controle:hover {
       transform: scale(1.1);
 
     }
+
