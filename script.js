@@ -33,7 +33,7 @@
         coracao.style.bottom = '0';
         coracao.style.animationDuration = (Math.random() * 3 + 2) + 's';
         document.body.appendChild(coracao);
-        setTimeout(() => coracao.remove(), 5000);
+        setTimeout(() => coracao.remove(), 45000);
       }
     }
 
@@ -71,3 +71,4 @@
       }
 
     });
+
