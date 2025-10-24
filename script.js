@@ -19,7 +19,7 @@
     });
 
     botaoSim.addEventListener('click', () => {
-      alert('Eu sabiaaa! 😍 Te amo mais que tudo 💖');
+      alert('HEHEHEHE! 😍 Eu também te amo minha princesa 💖');
       criarCoracoes();
     });
 
@@ -69,4 +69,5 @@
         musicaBotao.innerHTML = '🎵';
         tocando = false;
       }
+
     });
